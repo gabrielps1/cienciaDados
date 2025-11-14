@@ -1,0 +1,4 @@
+region,hour,vehicle_volume,avg_speed,jam_factor
+Centro,7,1580,14.2,8.1
+Centro,8,1720,12.8,9.0
+Oeste,18,2100,11.3,9.4

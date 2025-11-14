@@ -1,0 +1,4 @@
+trip_id,route_id,timestamp,lat,lon,speed,delay,region,hour,day_of_week,is_peak,delay_clip,rain_mm,temperature,wind_speed,vehicle_volume,avg_speed,jam_factor
+489213,8091-10,2025-05-01 07:03:00,-23.5102,-46.6121,12.3,3.4,Centro,7,3,1,3.4,2.6,19.4,3.2,1580,14.2,8.1
+489214,8091-10,2025-05-01 07:04:00,-23.5104,-46.6119,10.1,5.1,Centro,7,3,1,5.1,2.6,19.4,3.2,1580,14.2,8.1
+389111,7156-10,2025-06-21 18:12:00,-23.5331,-46.6442,8.2,7.0,Oeste,18,5,1,7.0,,,,2100,11.3,9.4

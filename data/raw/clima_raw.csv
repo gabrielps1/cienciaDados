@@ -1,0 +1,4 @@
+datetime,rain_mm,temperature,wind_speed,humidity,region
+2025-05-01 07:00,2.6,19.4,3.2,82,Centro
+2025-05-01 08:00,0.0,21.1,2.5,78,Centro
+2025-06-21 18:00,3.1,17.3,4.0,88,Oeste
